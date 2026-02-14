@@ -80,9 +80,10 @@ Sonra `index.html` içindeki CDN scriptlerini yerel dosyalara çevirmen yeterli.
 
 ## Lisans
 
-Bu proje **MIT License** ile paylaşılabilir. İstersen `LICENSE` dosyası ekleyip GitHub’a koyabilirsin.
+Bu proje **MIT License** ile lisanslanmıştır
 
 ---
 ## Katkı
 
 PR/issue açarak katkı yapabilirsin. ✨
+
